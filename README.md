@@ -11,7 +11,7 @@
     - HTML, CSS로 사이트 구현하되 코드리뷰를 통한 깔끔한 코드 만들기
     - 반응형으로 구현하기
 #### 4. 팀원
-❤️ 강지윤  <br>
+❤️ 강지윤 https://github.com/kangjiyoun <br>
 🧡 김다님 https://github.com/dahhnym <br>
 💛 장효순 https://github.com/sooonlog <br>
 
